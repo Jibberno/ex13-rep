@@ -19,7 +19,7 @@ body {
 h1 {
   font-family: audiowide;
   font-size: 1rem;
-  padding-bottom: .8em;
+  padding: .8em;
   font-weight: bold;
   text-transform: uppercase;
   background-color: #9c9c9c;
