@@ -55,7 +55,7 @@ a:hover {
 
 .content {
   display: grid;
-  grid-template: repeat(3, 240px) / repeat(2, 240px);
+  grid-template: repeat(3, 240px) / repeat(2, 250px);
   margin-bottom: 150px;
   background-color: #4f4f52;
 }
